@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+//本demo只适配了plus系列iPhone，模拟器选择此机型查看效果。
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
