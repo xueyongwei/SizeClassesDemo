@@ -13,6 +13,7 @@
 		479269D920EF48C500A20E4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 479269D820EF48C500A20E4A /* Assets.xcassets */; };
 		479269DC20EF48C500A20E4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 479269DA20EF48C500A20E4A /* LaunchScreen.storyboard */; };
 		479269EA20EF55AB00A20E4A /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479269E920EF55AB00A20E4A /* TestViewController.swift */; };
+		479269EC20EF750C00A20E4A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 479269EB20EF750C00A20E4A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		479269DB20EF48C500A20E4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		479269DD20EF48C500A20E4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		479269E920EF55AB00A20E4A /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		479269EB20EF750C00A20E4A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				479269D820EF48C500A20E4A /* Assets.xcassets */,
 				479269DA20EF48C500A20E4A /* LaunchScreen.storyboard */,
 				479269DD20EF48C500A20E4A /* Info.plist */,
+				479269EB20EF750C00A20E4A /* README.md */,
 			);
 			path = SizeClasses;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				479269DC20EF48C500A20E4A /* LaunchScreen.storyboard in Resources */,
 				479269D920EF48C500A20E4A /* Assets.xcassets in Resources */,
+				479269EC20EF750C00A20E4A /* README.md in Resources */,
 				479269D720EF48C500A20E4A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

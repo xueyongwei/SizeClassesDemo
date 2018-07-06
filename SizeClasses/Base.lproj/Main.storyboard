@@ -13,7 +13,7 @@
         <!--横竖屏不同图片-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="UIStackView" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="SizeClasses" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -47,7 +47,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <navigationItem key="navigationItem" title="横竖屏不同图片" prompt="请切换横竖屏查看效果" id="8RA-Lj-Nmp">
+                    <navigationItem key="navigationItem" title="横竖屏不同图片" prompt="iphone8 plus切换横竖屏查看效果" id="8RA-Lj-Nmp">
                         <barButtonItem key="rightBarButtonItem" style="plain" id="LJV-Nf-chG">
                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Rs8-V8-0dl">
                                 <rect key="frame" x="323" y="41" width="71" height="30"/>
@@ -70,7 +70,7 @@
         <!--横竖屏不同布局-->
         <scene sceneID="WDp-EK-Yfn">
             <objects>
-                <viewController id="EAC-JH-2sx" customClass="TestViewController" customModule="UIStackView" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="EAC-JH-2sx" customClass="TestViewController" customModule="SizeClasses" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="cMs-Fg-oBP">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
